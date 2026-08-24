@@ -1,0 +1,14 @@
+Python -- OOP Language 
+Functions and Modules 
+
+C Prog :
+int a = 10;
+
+Python: 
+a = 10
+b = 20.6
+
+
+# User Input in Python
+
+1) Use 
