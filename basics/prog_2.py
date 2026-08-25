@@ -1,11 +1,15 @@
-name = input("Enter your name: ")
+# name = input("Enter your name: ")
 
-print("Hello " + name)
-print(type(name))
+# print("Hello " + name)
+# print(type(name))
 
-age = int(input("Enter your age: "))
-print("Your age is: ", age)
+# age = int(input("Enter your age: "))
+# print("Your age is: ", age)
+# print(type(age))
 
 
 age = float(int(input("Enter your age: ")))
 print("Your age is: ", age)
+
+
+# print("yash"*3)
