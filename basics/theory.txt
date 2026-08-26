@@ -9,6 +9,38 @@ a = 10
 b = 20.6
 
 
-# User Input in Python
+operators:
+defination:operators are special symbols which can use perofm 
+operation on oerand
 
-1) Use 
+unery operators : it required single operand: ++a , --a 
+bin operators   : it required min 2 operand :
+ternery operators :it required min 3 operand
+
+
+1)arithmetic operators : + , - , *,/ , // , **
+2)logical operators : and or not
+3)biwise operators: <<,>>,
+4)relational operators : <,>,<=,>=,==
+5)asignment operators : = , +=,-=,......
+6)membership operator : in not in
+7)identity operator : is is not
+ 
+
+C prog:
+
+if (condition){
+    statement;
+}
+else{
+    statement;
+}
+
+python:
+
+if (condition) :
+    statement
+elif:
+    statement    
+else:
+    statement
