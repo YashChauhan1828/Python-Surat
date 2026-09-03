@@ -130,3 +130,35 @@ print(math.isclose(100+20,120))
 print(math.remainder(10,2))
 print(math.comb(6,3))
 print(math.perm(5,2))
+
+---------------------------------------------------------------------------------------------
+
+loops:
+
+entry control loop:
+
+for   :when you know no of itration
+while :
+
+
+C Prog:
+for(int i=1;i<=10;i++){
+
+    
+}
+
+Python:
+for i in range()
+range() membership operator in
+
+
+exit control :
+do while
+
+----------------------------------------------------------------------------------------
+Assertion Statement:
+
+It is a debugging tool to test conditions in our code.
+
+assert "Conditions"
+

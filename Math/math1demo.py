@@ -51,13 +51,12 @@ a = 15
 # print("Value of e: ",math.e)
 
 # modf
-print(math.modf(5.75))
+# print(math.modf(5.75))
+# print(math.modf(-6.85))
 
 # permutations
-print("Permutations: ",math.perm(5,3))
+# print("Permutations: ",math.perm(5,3))
 
 # combinations
-print("Combinations: ",math.comb(5,3))
+# print("Combinations: ",math.comb(5,3))
 
-# remainder
-# print("Remainder: ",math.remainder(3,5))
