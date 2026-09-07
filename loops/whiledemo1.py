@@ -1,5 +1,6 @@
-i=0
-while(i < 10):
+i=0              # Intialization 
+while(i < 10):   # Condition
     print(i)
-    i+=1
+    i+=1         # Increment / Decrement
+
     
