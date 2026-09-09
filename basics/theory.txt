@@ -176,3 +176,16 @@ digits = 4
 
 1^4 + 4^4 + 7^4 + 6^4 = 1476
 
+-----------------------------------------------------------------------------------------
+
+str:
+'name' 'x' 'y' '12345' 'yash@1213'-->string
+
+string
+1)string is immutable: eg name = "abc"
+2)string stores data in index manner "a[0]b[1]c[2]"
+3)string is iterbale
+4)string is subscriptable = name = "ram" name[0]
+
+ascii value:unicode
+A - 65 a - 97
