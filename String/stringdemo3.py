@@ -12,5 +12,3 @@ print(ord("a")) # Returns the ascii value of the character.
 
 print(chr(122)) # Returns the character of the ascii value.
 
-
-# A to Z print 
