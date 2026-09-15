@@ -1,8 +1,8 @@
 # name = "Yash"
 # print(type(name) , name)
 
-# singlevariable = "x"
-# print(type(singlevariable))
+singlevariable = "x"
+print(type(singlevariable))
 
 # numeric = "1212121"
 # print(type(numeric))
