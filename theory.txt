@@ -189,3 +189,24 @@ string
 
 ascii value:unicode
 A - 65 a - 97
+
+------------------------------------------------------------------------------------------------------
+
+Data Structures in Python: A structure way to store and access the data.
+
+Built-in Data Structures:
+1) list
+2) tuple
+3) set
+4) dict
+
+#char of list...
+
+1)list is dynamic : ["ram","shyam"] --> add ["ok"] -->3 [1,22,33,44] -->22 remove --> shrink
+2)list is hetrogenious [11,11,22,"mm",True]
+3)list allows duplicate element
+4)list is orderd : [100,20,43] --> 10,20,43
+5)list is iterbale
+6)list is subscriptable  [10,20,30] a[0]
+7)list is mutable   
+8)list stores data in index manner
