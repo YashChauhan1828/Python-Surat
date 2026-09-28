@@ -210,3 +210,11 @@ Built-in Data Structures:
 6)list is subscriptable  [10,20,30] a[0]
 7)list is mutable   
 8)list stores data in index manner
+
+
+remove function:
+
+1) Removes the data from left to right.
+2) Removes the data from the list as specified in its argument.
+3) It takes data as single argument.
+4) Removes the first data in case of duplicate element.
