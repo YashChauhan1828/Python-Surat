@@ -218,3 +218,10 @@ remove function:
 2) Removes the data from the list as specified in its argument.
 3) It takes data as single argument.
 4) Removes the first data in case of duplicate element.
+
+
+slicing : 
+
+syntax:
+    
+    data[starting index : ending index : step/skip Size]
