@@ -236,3 +236,9 @@ tuple:
 6)tuple is subscriptable  [10,20,30] a[0]
 7)tuple is immutable   
 8)tuple stores data in index manner
+
+set:
+1) set is dynamic
+2) set allows unique elements
+3) set is unordered
+4) set is not subscriptable
