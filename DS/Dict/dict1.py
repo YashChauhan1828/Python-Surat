@@ -11,6 +11,8 @@ data["Gujarat"] = "Ahmedabad"
 data["Jaipur"] = "Jaisalmer"  # to add data in dictionary we can use this method
 print(data)
 
+print(data.items())
+
 
 # for i , j in data.items():
 #     print(i + ":" + j)
