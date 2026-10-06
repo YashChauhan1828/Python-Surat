@@ -252,3 +252,6 @@ dict:
 6) dict mutable
 7) dict is iterable
 8) dict is subscriptable
+
+
+data = {1:100,2:34,3:23,4:121,5:44}
