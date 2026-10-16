@@ -14,13 +14,16 @@ def addmission(cb,name): # cd = science()
     print("Addmission secured")
     # cb(name)
     x = cb(name)
-    print(x)
+    # print(x)
+    return x
 
 name = input("Enter student name: ")
 marks = int(input("Enter your marks : "))
 if marks > 80:
-    addmission(science,name)
+    data = addmission(science,name)
 elif marks >70:
-    addmission(commerce,name)
+    data = addmission(commerce,name)
 else:
-    addmission(arts,name)
+    data = addmission(arts,name)
+
+print("Data = ",data)
