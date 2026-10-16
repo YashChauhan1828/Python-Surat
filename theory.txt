@@ -285,3 +285,25 @@ use of function:
 2)modularity : break code into small modules bank : deposit , withdraw, balance
 3)debugging : easy to debug code,
 4)readability : easy to read code
+
+
+------------------------------------------------------------------------------------------
+task:
+create function which will retuen max valud from args [numbers] # 
+create function which accept 2 parm first is threshold and second is args 
+eg 10,10,100,9,70,65,0
+
+return [100,70,65] using comprehension
+
+
+args-->(100,True,20,20.89,100,"java",90.90)
+
+ans = {
+    'int':[100,20,100],
+    float:[],
+    str:[]
+    boolean:[True]
+}
+
+task2: pass any kind of argument in args and do sum of only numbers and return it
+args-->(100,True,20,20.89,100,"java",90.90)

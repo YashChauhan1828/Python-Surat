@@ -8,9 +8,16 @@
 # getstudents("raj","john","mike","sara")
 
 
-def getstudents(*args , x):
-    for student in args:
-        print(student)
+# def getstudents(*args , x):
+#     for student in args:
+#         print(student)
+#     print(x)
+
+# getstudents("raj","john","mike","sara",x="Yash")
+
+def getStudentDetails(x,**kwargs):
+    print(kwargs)
     print(x)
 
-getstudents("raj","john","mike","sara",x="Yash")
+
+getStudentDetails(x=100,name="ram",age=23,status=True,city="ahmedbad")  
