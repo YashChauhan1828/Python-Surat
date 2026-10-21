@@ -307,3 +307,9 @@ ans = {
 
 task2: pass any kind of argument in args and do sum of only numbers and return it
 args-->(100,True,20,20.89,100,"java",90.90)
+
+# Lambda Function:
+
+# lambda function --> Annonymous function
+syntax : 
+    lambda x,y,z : expression 
