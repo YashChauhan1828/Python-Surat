@@ -1,3 +1,5 @@
+# We can't use loops and elif keywords in the lambda function.
+
 # def abc(x):
 #     print(x)
 
