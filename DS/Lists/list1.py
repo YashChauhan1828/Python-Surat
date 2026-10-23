@@ -7,7 +7,7 @@ print(type(lst2))
 lst3 = [1,2,3,4,5]
 print(lst3)  # Representation of list.
 
-print(lst3[0])
+# print(lst3[0])
 lst3[-1] = 6
 print(lst3)
 
